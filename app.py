@@ -37,7 +37,7 @@ app.layout = html.Div([
                                     'color': colors['text']
                                     }
                             ),
-                    html.Div(dcc.Input(id='input-on-submit', type='text')),
+                    html.Div(dcc.Input(id='input-on-submit', type='text',placeholder= 'Enter #Hashtag')),
                     html.Button('Submit', id='submit-val', n_clicks=0),
                     dcc.Graph(id='senntimental_graph'),
                     dcc.Graph(id='wc_graph'
