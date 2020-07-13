@@ -7,6 +7,11 @@ Simple twitter sentimental anlaysis  to demonstrate sentiment using textblob  an
 
 
 
+# Demo Link 
+
+[![vide0_link](video.PNG)](https://youtu.be/3Ecmhl2sE2U)
+
+
 # Contents
 
 * ```app.py``` - Front and back end portion of the web application 
