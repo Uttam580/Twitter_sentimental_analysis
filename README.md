@@ -25,7 +25,8 @@ click <a href="https://youtu.be/3Ecmhl2sE2U" target="_blank">**Twitter Sentiment
    http://127.0.0.1:5001/
    
 
-# Directory Tree
+```
+Directory Tree
 
 ├─ .gitignore
 ├─ app.py
@@ -42,6 +43,8 @@ click <a href="https://youtu.be/3Ecmhl2sE2U" target="_blank">**Twitter Sentiment
    ├─ raw_data
    │  └─ tweet_#coronavaccine.csv
    └─ tweet_extractor.py
+
+```
 
 # Source: 
 
