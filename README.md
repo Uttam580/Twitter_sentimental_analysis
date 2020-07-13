@@ -2,14 +2,9 @@
 
 Simple twitter sentimental anlaysis  to demonstrate sentiment using textblob  and integrating dash core components and http requests. 
 
-
-![](app_view.PNG)
-
-
-
 # Demo Link 
 
-[![vide0_link](video.PNG)](https://youtu.be/3Ecmhl2sE2U)
+[![vide0_link](app_view.PNG)](https://youtu.be/3Ecmhl2sE2U)
 
 
 # Contents
