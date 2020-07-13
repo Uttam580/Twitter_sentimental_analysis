@@ -4,7 +4,14 @@ Simple twitter sentimental anlaysis  to demonstrate sentiment using textblob  an
 
 # Demo Link 
 
-[![vide0_link](app_view.PNG)](https://youtu.be/3Ecmhl2sE2U)
+
+click <a href="https://youtu.be/3Ecmhl2sE2U" target="_blank">**Twitter Sentimental analysis**</a> to see the demo.
+
+[![vide0_link]()]()
+
+**Recordit**
+
+![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
 
 
 # Contents
