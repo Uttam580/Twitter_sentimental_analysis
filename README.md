@@ -24,8 +24,26 @@ click <a href="https://youtu.be/3Ecmhl2sE2U" target="_blank">**Twitter Sentiment
 * Download the entire repository as a folder and open ```app.py``` and run it with IDE . That's it!
    http://127.0.0.1:5001/
    
+
+# Directory Tree
+
+├─ .gitignore
+├─ app.py
+├─ app_view.PNG
+├─ model
+│  ├─ text_blob.py
+│  └─ __pycache__
+│     └─ text_blob.cpython-36.pyc
+├─ pred
+│  └─ sentiment_#coronavaccine.csv
+├─ README.md
+├─ requirements.txt
+└─ src
+   ├─ raw_data
+   │  └─ tweet_#coronavaccine.csv
+   └─ tweet_extractor.py
+
 # Source: 
+
  *  https://dash.plotly.com/basic-callbacks
  *  https://developer.twitter.com/en
-
-work in progress >>>>>>>
